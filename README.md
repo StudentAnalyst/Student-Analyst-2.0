@@ -1,4 +1,3 @@
-```markdown
 # Student Analyst 2.0
 
 Student Analyst 2.0 is a blog and learning project by **Ntombizakhona Mabaso** focused on documenting a journey through **Cloud Computing**, **Generative AI**, and **Emerging Technology**—and exploring how these systems shape society, opportunity, and the future (especially for the youth of South Africa).
@@ -96,4 +95,3 @@ We grow into people who uplift their communities.
 ## Author
 
 **Ntombizakhona Mabaso**
-```
