@@ -1027,3 +1027,15 @@ How AIOps and generative AI are being applied to multicloud complexity, includin
 > _Generative AI tools, including_ [_AI copilots_](https://www.cio.com/article/1309604/generative-ai-copilots-whats-hype-and-where-to-drive-results.html) _and_ [_AI agents_](https://drive.starcio.com/2025/10/ai-agents-definitive-guide-saas-security-titans/)_, are also becoming invaluable._ [_World-class IT departments_](https://www.cio.com/article/4064313/what-world-class-it-looks-like-in-the-gen-ai-era.html) _are using genAI to_ [_write agile requirements_](https://www.infoworld.com/article/3980319/how-to-use-genai-for-requirements-gathering-and-agile-user-stories.html)_,_ [_develop software_](https://www.infoworld.com/article/3993479/what-we-know-now-about-generative-ai-for-software-development.html)_,_ [_automate testing_](https://www.infoworld.com/article/3711865/5-ways-qa-will-evaluate-the-impact-of-new-generative-ai-testing-tools.html)_, and_ [_maintain documentation_](https://www.infoworld.com/article/4063551/how-to-improve-technical-documentation-with-generative-ai.html)_._ **_—_** [**_Isaac Sacolick_**](https://www.infoworld.com/profile/isaac-sacolick/)
 
 ![Multicloud Management — The Complexity of Multicloud Architecture](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*YJtLujCrZKLKb-rr9M0scg.png)
+
+---
+
+# The Original
+
+**Blog:** [StudentAnalyst](https://medium.com/studentanalyst)
+<br>
+**Article Link:** [Multicloud Management](https://medium.com/studentanalyst/towards-multicloud-26ad5c69f4d5)
+<br>
+Originally Published by [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona) 
+<br>
+**22 August 2026**
